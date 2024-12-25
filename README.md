@@ -63,14 +63,12 @@ else
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![image](https://github.com/user-attachments/assets/a43a110e-db5d-43b5-bce3-f33c82167b73)
-
+![image](https://github.com/user-attachments/assets/144c4c8b-84cb-402f-aa3c-6fd6f40d40ba)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/user-attachments/assets/29663ed1-5516-496f-87ec-8b5c849b5bc8)
-
+![image](https://github.com/user-attachments/assets/2c650958-59d8-49bd-bca7-39fdc2258538)
 
 
 
